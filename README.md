@@ -27,22 +27,22 @@ Understanding consumer preferences in the smartphone market is hard — there's 
 ## Key Visualizations
 
 **Storage (ROM) distribution across respondents**
-![ROM distribution](images/pie_chart_rom.png)
+![ROM distribution](pie_chart_rom.png)
 
 **RAM preference distribution**
-![RAM distribution](images/pie_chart_ram.png)
+![RAM distribution](pie_chart_ram.png)
 
 **Brand popularity across the sample**
-![Brand popularity](images/bar_chart_brand.png)
+![Brand popularity](bar_chart_brand.png)
 
 **Demand by price range**
-![Price range distribution](images/line_chart_price_range.png)
+![Price range distribution](line_chart_price_range.png)
 
 **RAM distribution across storage tiers**
-![Boxplot of RAM by ROM](images/boxplot_ram_by_rom.png)
+![Boxplot of RAM by ROM](boxplot_ram_by_rom.png)
 
 **Storage vs. RAM — regression fit**
-![Storage vs RAM regression](images/scatter_regression_rom_ram.png)
+![Storage vs RAM regression](scatter_regression_rom_ram.png)
 
 ## Key Findings
 
